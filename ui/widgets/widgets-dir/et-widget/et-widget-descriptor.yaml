@@ -8,5 +8,5 @@ configUi:
   customElement: my-widget-config # CHANGE-IT The name of the custom-element used to render the configUI
   resources: # CHANGE-IT the file containing the config screen built artefacts
     - e70-react-with-config/static/js/2.f68d92a9.chunk.js
-    - e70-react-with-config/static/js/main.b304ba30.chunk.js
+    - e70-react-with-config/static/js/main.564d1428.chunk.js
     - e70-react-with-config/static/js/runtime-main.0096342d.js
